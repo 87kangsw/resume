@@ -66,6 +66,7 @@
 		* Foursquare API 연동
 		* MKMapView 기능 구현 (Geocode / Reverse Geocode / Annoation) 
  ![패밀리북](https://github.com/87kangsw/resume/blob/master/images/familybook.png)     
+
 ## 기타 프로젝트
 * 펫뷰
 	* 반려동물 수첩 어플리케이션
