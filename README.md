@@ -1,20 +1,20 @@
 # 이력서
 ## 경력
 * 스마투스 프리랜서
-	* 2017. 02 ~ 2017. 04
+	*  2017. 02 ~ 2017. 04
 	* [BeNative](https://itunes.apple.com/kr/app/bineitibeu-geullobeol-gieob/id915310665?mt=8) 
 
 * 스마투스 
-	* 2016. 06 ~ 2017. 01
+	*  2016. 06 ~ 2017. 01
 	* [BeNative](https://itunes.apple.com/kr/app/bineitibeu-geullobeol-gieob/id915310665?mt=8) 
 
 * 핀스팟
-	* 2015. 12 ~ 2016. 06
+	*  2015. 12 ~ 2016. 06
 	* [PinSpot](https://itunes.apple.com/kr/app/pinseupas-pinspot-sesang-modeungos/id1033106216?mt=8)
 	* [PinSpot Partner](https://itunes.apple.com/kr/app/pinseupas-pateuneo/id1117260351?mt=8)
 
 * 한시간컴
-	* 2013. 06 ~ 2015. 11
+	*  2013. 06 ~ 2015. 11
 	* [뭐먹지?](https://itunes.apple.com/kr/app/mwomeogji/id1051623108?mt=8)
 	* [노크노크](https://itunes.apple.com/kr/app/nokeunokeu/id922396277?mt=8)
 	* [패밀리북](https://itunes.apple.com/kr/app/paemillibug/id588633215?mt=8)
