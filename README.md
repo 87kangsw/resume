@@ -91,7 +91,7 @@
 	* 주요 업무
 		* Bluetooth 4.0 연동
 		* 패킷통신을 통한 타투 기기 제어
-		* [Rx Power](https://itunes.apple.com/kr/app/rx-power/id1246644023?mt=8)    		
+		* [Rx Power](https://itunes.apple.com/kr/app/rx-power/id1246644023?mt=8)   
 		![Rx Power](https://github.com/87kangsw/resume/blob/master/images/rxpower.png)
 
 
