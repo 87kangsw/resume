@@ -85,15 +85,14 @@
 		![패밀리북](https://github.com/87kangsw/resume/blob/master/images/familybook.png)     
 
 ## 기타 프로젝트
-* 펫뷰
-	* 반려동물 수첩 어플리케이션
-	* 기능 추가 및 유지보수 
-		* 예약 기능 추가
-		* UI 변경
-		* APNS 개선 
 * Rx Tatoo
-	* Bluetooth 연동 타투 어플리케이션
-	* 블루투스 4.0 적용
+	* Tattoo 어플리케이션
+	* 사용언어 : Objective-C
+	* 주요 업무
+		* Bluetooth 4.0 연동
+		* 패킷통신을 통한 타투 기기 제어
+		* [Rx Power](https://itunes.apple.com/kr/app/rx-power/id1246644023?mt=8) 
+		![Rx Power](https://github.com/87kangsw/resume/blob/master/images/rxpower.png)
 
 
 
