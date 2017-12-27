@@ -32,7 +32,8 @@
 	* 주요 업무
 		* Tortoise iOS 개발
 		* Swift3.0 사용 
-		* HealthKit & Pedometer Step Count 처리 구현   
+		* HealthKit & Pedometer Step Count 처리 구현
+		* SynapsePay Service를 통한 미국은행 연동 경험   
 		![Tortoise](https://github.com/87kangsw/resume/blob/master/images/tortoise.png) 
 * 스마투스 리뉴얼 (프리랜서)
 	* BeNative 리뉴얼 
