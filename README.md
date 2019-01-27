@@ -1,5 +1,10 @@
 # 이력서
 ## 경력
+* 비브로스 
+	* 2018.02 ~ 
+	* [똑닥](https://itunes.apple.com/kr/app/id1014889755?mt=8)
+	* [똑닥뷰티](https://itunes.apple.com/kr/app/id1444002466?mt=8)
+      
 * 크리에이터스 (스타트업 멤버)
 	* 2017.07 ~ 2017.12
 	* [Tortoise](https://itunes.apple.com/us/app/tortoise-health-savings/id1094936336)
@@ -25,6 +30,15 @@
 
 
 ## 회사 프로젝트
+* 비브로스
+    * 똑닥
+    * 병원 접수/예약 o2o 서비스   
+      ![똑닥](https://github.com/87kangsw/resume/blob/master/images/ddocdoc.png)
+    * 똑닥뷰티
+    * 병원 시술/후기 공유 서비스   
+      ![똑닥뷰티](https://github.com/87kangsw/resume/blob/master/images/beauty.png)
+
+
 * 크리에이터스 (스타트업 멤버)
 	* Tortoise
 	* 미국 밀레니얼 세대를 대상으로 걸을수록 이자를 지급하는 서비스
