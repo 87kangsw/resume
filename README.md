@@ -151,6 +151,7 @@ LinkedIn: [https://www.linkedin.com/in/sungwook-kang-4bb2a4b8](https://www.linke
   - [WakaTime](https://wakatime.com) 서비스를 이용하면서 얻은 아이디어를 바탕으로
     GitHub Contributions와 Activity를 주요 컨셉으로 잡아 개발한 어플리케이션
   - [GitTime](https://itunes.apple.com/kr/app/id1469013856?mt=8)
+  - [GitHub Repo](https://github.com/87kangsw/GitTime)
 
   ![](https://github.com/87kangsw/resume/blob/master/images/gittime.png)
 
