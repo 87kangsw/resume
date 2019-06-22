@@ -2,13 +2,9 @@
 
 Email: 87kangsw@gmail.com
 
-GitHub:
+GitHub: [https://github.com/87kangsw](https://github.com/87kangsw)
 
-[87kangsw - Overview](https://github.com/87kangsw)
-
-Notion:
-
-[Kanz Home](http://bit.ly/31Lsy5q)
+Notion: [http://bit.ly/31Lsy5q](http://bit.ly/31Lsy5q)
 
 LinkedIn: [https://www.linkedin.com/in/sungwook-kang-4bb2a4b8](https://www.linkedin.com/in/sungwook-kang-4bb2a4b8/)
 
@@ -124,7 +120,7 @@ LinkedIn: [https://www.linkedin.com/in/sungwook-kang-4bb2a4b8](https://www.linke
   - 노크노크 (스토어 판매 종료)
 
     - 약속, 모임 제안 서비스
-    - ![노크노크](https://itunes.apple.com/kr/app/nokeunokeu/id922396277?mt=8)
+    - [노크노크](https://itunes.apple.com/kr/app/nokeunokeu/id922396277?mt=8)
 
     ![](https://github.com/87kangsw/resume/blob/master/images/knock.png)
 
