@@ -1,127 +1,187 @@
-# 이력서
+# resume
+
+Email: 87kangsw@gmail.com
+
+GitHub:
+
+[87kangsw - Overview](https://github.com/87kangsw)
+
+Notion:
+
+[Kanz Home](http://bit.ly/31Lsy5q)
+
+LinkedIn: [https://www.linkedin.com/in/sungwook-kang-4bb2a4b8](https://www.linkedin.com/in/sungwook-kang-4bb2a4b8/)
+
+---
+
 ## 경력
-* 비브로스 
-	* 2018.02 ~ 
-	* [똑닥](https://itunes.apple.com/kr/app/id1014889755?mt=8)
-	* [똑닥뷰티](https://itunes.apple.com/kr/app/id1444002466?mt=8)
-      
-* 크리에이터스 (스타트업 멤버)
-	* 2017.07 ~ 2017.12
-	* [Tortoise](https://itunes.apple.com/us/app/tortoise-health-savings/id1094936336)
-	
-* 스마투스 프리랜서
-	* 2017.02 ~ 2017.04
-	* [BeNative](https://itunes.apple.com/kr/app/bineitibeu-geullobeol-gieob/id915310665?mt=8) 
 
-* 스마투스 
-	*  2016.06 ~ 2017.01
-	* [BeNative](https://itunes.apple.com/kr/app/bineitibeu-geullobeol-gieob/id915310665?mt=8) 
+- 비브로스 (2018. 02 ~ 2019. 04)
 
-* 핀스팟
-	*  2015.12 ~ 2016.06
-	* [PinSpot](https://itunes.apple.com/kr/app/pinseupas-pinspot-sesang-modeungos/id1033106216?mt=8)
-	* [PinSpot Partner](https://itunes.apple.com/kr/app/pinseupas-pateuneo/id1117260351?mt=8)
+  - 똑닥
 
-* 한시간컴
-	*  2013.06 ~ 2015.11
-	* [뭐먹지?](https://itunes.apple.com/kr/app/mwomeogji/id1051623108?mt=8)
-	* [노크노크](https://itunes.apple.com/kr/app/nokeunokeu/id922396277?mt=8)
-	* [패밀리북](https://itunes.apple.com/kr/app/paemillibug/id588633215?mt=8)
+    - 병원 예약 & 접수 o2o 서비스
+    - [‎똑닥](https://itunes.apple.com/kr/app/id1014889755?mt=8)
 
+    ![](https://github.com/87kangsw/resume/blob/master/images/ddocdoc.png)
 
-## 회사 프로젝트
-* 비브로스
-    * 똑닥
-    * 병원 접수/예약 o2o 서비스   
-      ![똑닥](https://github.com/87kangsw/resume/blob/master/images/ddocdoc.png)
-    * 똑닥뷰티
-    * 병원 시술/후기 공유 서비스   
-      ![똑닥뷰티](https://github.com/87kangsw/resume/blob/master/images/beauty.png)
+    - 사용 기술
+      - Swift 3 & 4
+      - Networking: Alamofire, Kingfisher, Firebase(remote config, dynamiclinks)
+      - Modeling: SwiftyJSON
+      - Reactive: RxSwift
+      - UI: SnapKit
 
+  - 똑닥 뷰티
 
-* 크리에이터스 (스타트업 멤버)
-	* Tortoise
-	* 미국 밀레니얼 세대를 대상으로 걸을수록 이자를 지급하는 서비스
-	* 사용 언어 : Swift
-	* 주요 업무
-		* Tortoise iOS 개발
-		* Swift3.0 사용 
-		* HealthKit & Pedometer Step Count 처리 구현
-		* SynapsePay Service를 통한 미국은행 연동 경험   
-		![Tortoise](https://github.com/87kangsw/resume/blob/master/images/tortoise.png) 
-* 스마투스 리뉴얼 (프리랜서)
-	* BeNative 리뉴얼 
-	* 주요 업무
-		* v3.0 기획에 맞추어 리뉴얼 진행   
-	![BeNative_Renewal](https://github.com/87kangsw/resume/blob/master/images/benative_renewal.png) 
+    - 병원 후기 공유 & 10~20대 타겟 여성 커뮤니티 서비스
+    - [‎똑닥뷰티 : 언니들의 리얼후기, 익명수다](https://itunes.apple.com/kr/app/id1444002466?mt=8)
 
-* 스마투스 
-	* BeNative
-	* 글로벌 학습 어플리케이션
-	* 사용언어 : Objective-C
-	* 주요 업무
-		* 학습 컨텐츠 리뉴얼
-		* 인앱결제 구현
-		* Facebook AudienceNetwork 적용   
-![BeNative](https://github.com/87kangsw/resume/blob/master/images/benative.png) 
+    ![](https://github.com/87kangsw/resume/blob/master/images/beauty.png)
 
-* 핀스팟
-	* PinSpot
-	* 숙박 예약 서비스 (o2o) 어플리케이션
-	* 사용언어 : Objective-C
-	* 주요 업무
-		* 핀스팟 2.5 리뉴얼
-		* OneSignal을 통한 Push 서비스 구현
-		* 이니시스, 카카오페이 결제 연동
-		* GoogleMap 오픈소스 사용하여 Map Clustering 구현
-		* 퍼플즈 Beacon SDK을 사용하여 위치기반 서비스 구현   
-		![PinSpot](https://github.com/87kangsw/resume/blob/master/images/pinspot.png)  
+    - 사용 기술
+      - React Native v0.59
+      - Redux, redux-thunk
+      - eslint
+      - Styled-components
 
-	* PinSpot Partner
-	* 핀스팟 사업자용 어플리케이션
-	* 사용언어 : Objective-C
-	* 주요 업무
-		* 웹뷰를 통한 모바일 웹 연동 작업 (하이브리드 앱)
-		* Google FireBase 적용 : Analytics, Remote Config, Crash Report  
-		![PinSpot Partner](https://github.com/87kangsw/resume/blob/master/images/partner.png)   
+- 크리에이터스 (2017. 07 ~ 2017. 12)
 
-* 한시간컴
-	* 뭐먹지
-	* 맛집 공유 어플리케이션
-	* 사용언어 : Objective-C
-	* 주요 업무
-		* Facebook 연동
-		* Kakao 연동
-		* Force Touch (3DTouch) 구현 : QuickAction / Peek And Pop   
-		![뭐먹지](https://github.com/87kangsw/resume/blob/master/images/foodnote.png)    
+  - Tortoise (스토어 판매 종료)
 
-	* 노크노크
-	* 약속 / 모임  제안 어플리케이션 
-	* 사용언어 : Objective-C
-	* 주요 업무
-		* APNS 구현
-		* CoreData를 통한 DB 구현 (친구 리스트 / 그룹 리스트)
-		* Today Extension 구현 (위젯)   
-		![노크노크](https://github.com/87kangsw/resume/blob/master/images/knock.png)     
+    - 하루 걸음 목표치를 달성하면 본인의 적금 금액에 daily이자를 지급해 주는 리워드 서비스
+    - [Tortoise](https://itunes.apple.com/us/app/tortoise-health-savings/id1094936336)
 
-	* 패밀리북 	
-	* 가족만을 위한 폐쇄형 SNS 어플리케이션
-	* 사용언어 : Objective-C
-	* 주요 업무
-		* 유지/보수
-		* Foursquare API 연동
-		* MKMapView 기능 구현 (Geocode / Reverse Geocode / Annoation)   
-		![패밀리북](https://github.com/87kangsw/resume/blob/master/images/familybook.png)     
+    ![](https://github.com/87kangsw/resume/blob/master/images/tortoise.png)
 
-## 기타 프로젝트
-* Rx Tattoo
-	* Tattoo 어플리케이션
-	* 사용언어 : Objective-C
-	* 주요 업무
-		* Bluetooth 4.0 연동
-		* 패킷통신을 통한 타투 기기 제어
-		* [Rx Power](https://itunes.apple.com/kr/app/rx-power/id1246644023?mt=8)   
-		![Rx Power](https://github.com/87kangsw/resume/blob/master/images/rxpower.png)
+    - 사용기술
+      - Swift 3
+      - Networking: Alamofire, Kingfisher, Firebase DynamicLinks
+      - Modeling: SwiftyJSON, ObjectMapper
+      - UI: SnapKit, IBDesignable & IBInspectable
+      - HealthKit & Pedometer framework를 통한 Step Count 처리
+      - 미국 은행 연동 서비스 SynapsePay 연동
 
+- 스마투스 (2016. 06 ~ 2017. 04)
 
+  - BeNative
 
+    - 영어, 중국어를 퀴즈 게임 기반으로 강의 서비스
+    - [‎BeNative](https://itunes.apple.com/kr/app/bineitibeu-geullobeol-gieob/id915310665?mt=8)
+
+    ![](https://github.com/87kangsw/resume/blob/master/images/benative_renewal.png)
+
+    ![](https://github.com/87kangsw/resume/blob/master/images/benative.png)
+
+    - 사용 기술
+      - Objective-C
+      - Networking: AFNetworking, SDWebImage
+      - Facebook Audience Network 를 통한 앱 내 광고
+      - In App Purchase 구현: Subscriptions (Auto renewal, Non-renewable)
+
+- 핀스팟 (2015. 12 ~ 2016. 06)
+
+  - 핀스팟
+
+    - 숙박, 펜션, 장소(파티룸, 스터디룸) 예약 o2o 서비스
+    - [‎핀스팟 - PINSPOT 세상 모든곳을 예약하다.](https://itunes.apple.com/kr/app/pinseupas-pinspot-sesang-modeungos/id1033106216?mt=8)
+
+    ![](https://github.com/87kangsw/resume/blob/master/images/pinspot.png)
+
+    - 사용 기술
+      - Objective-C
+      - Networking: AFNetworking, SDWebImage
+      - Push Service: OneSignal
+      - 결제 연동: 이니시스, 카카오페이
+      - 퍼플즈 Beacon SDK 연동을 통한 위치기반 서비스 적용
+      - GoogleMap Clustering
+
+  - 핀스팟 파트너
+
+    - 핀스팟 서비스 가맹점주를 대상으로 한 서비스
+    - [‎핀스팟 파트너](https://itunes.apple.com/kr/app/pinseupas-pateuneo/id1117260351?mt=8)
+
+    ![](https://github.com/87kangsw/resume/blob/master/images/partner.png)
+
+    - 사용 기술
+      - Objective-C
+      - UIWebView를 통한 모바일 웹 앱
+
+- 한시간컴 (2013. 06 ~ 2015. 11)
+
+  - 뭐먹지?
+
+    - 나만의 맛집 정보를 기록하고 공유하는 서비스
+    - [‎뭐먹지!? 나만의 맛집노트](https://itunes.apple.com/kr/app/mwomeogji/id1051623108?mt=8)
+
+    ![](https://github.com/87kangsw/resume/blob/master/images/foodnote.png)
+
+    - 사용 기술
+      - Objective-C
+      - Networking: AFNetworking, SDWebImage
+      - 3D Touch: Quick Action & Peek and Pop
+
+  - 노크노크 (스토어 판매 종료)
+
+    - 약속, 모임 제안 서비스
+    - ![노크노크](https://itunes.apple.com/kr/app/nokeunokeu/id922396277?mt=8)
+
+    ![](https://github.com/87kangsw/resume/blob/master/images/knock.png)
+
+    - 사용 기술
+      - Objective-C
+      - Networking: AFNetworking, SDWebImage
+      - CoreData
+      - Today Extension
+
+  - 패밀리북
+
+    - 가족만을 위한 폐쇄형 SNS 어플리케이션
+    - [‎패밀리북](https://itunes.apple.com/kr/app/paemillibug/id588633215?mt=8)
+
+    ![](https://github.com/87kangsw/resume/blob/master/images/familybook.png)
+
+    - 사용 기술
+      - Objective-C
+      - Networking: AFNetworking, SDWebImage
+      - Foursquare 연동
+
+---
+
+## 개인 프로젝트
+
+- GitTime
+
+  - [WakaTime](https://wakatime.com) 서비스를 이용하면서 얻은 아이디어를 바탕으로
+    GitHub Contributions와 Activity를 주요 컨셉으로 잡아 개발한 어플리케이션
+  - [GitTime](https://itunes.apple.com/kr/app/id1469013856?mt=8)
+
+  ![](https://github.com/87kangsw/resume/blob/master/images/gittime.png)
+
+  - 사용 기술
+    - Swift 5
+    - Architecture: ReactorKit
+    - Networking: Alamofire, Moya, Kingfisher
+    - Modeling: Codable
+    - Reactive: RxSwift, RxDataSources
+    - Code Conventions: SwiftLint
+    - UI: SnapKit
+
+- GitTime-Crawler
+
+  - iOS GitTime Project API를 위한 크롤링 서비스
+  - GitHub Contribution Graph & Trending Repositories & Developers Crawling
+  - 사용기술
+    - Language: Node.js
+    - Cloud Platform: Heroku
+
+- Rx Power(스토어 판매 종료)
+
+  - 타투 기계를 동작시키기 위한 어플리케이션
+  - [Rx Power](https://itunes.apple.com/kr/app/rx-power/id1246644023?mt=8)
+
+  ![](https://github.com/87kangsw/resume/blob/master/images/rxpower.png)
+
+  - 사용 기술
+    - Objective-C
+    - Bluetooth 4.0
