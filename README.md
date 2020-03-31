@@ -12,7 +12,24 @@ LinkedIn: [https://www.linkedin.com/in/sungwook-kang-4bb2a4b8](https://www.linke
 
 ## 경력
 
-- 비브로스 (2018. 02 ~ 2019. 04)
+- 키즈노트 (2019. 09 ~ 현재)
+
+  - 키즈노트
+
+    - 원과 가정을 이어주는, 키즈노트 서비스
+    - 알림장, 공지사항 등 원과 가정에 편의를 제공해주는 서비스
+    - [키즈노트](https://apps.apple.com/kr/app/id527574743)
+      ![](https://github.com/87kangsw/resume/blob/master/images/kidsnote.png)
+
+    - 사용 기술
+      - Objective-C, Swift5
+      - Networking: AFNetworking, Alamofire, Moya
+      - Modeling: Codable
+      - Reactive: RxSwift
+      - Architecture: ReactorKit
+      - UI: SnapKit, Then
+
+* 비브로스 (2018. 02 ~ 2019. 04)
 
   - 똑닥
 
@@ -36,12 +53,12 @@ LinkedIn: [https://www.linkedin.com/in/sungwook-kang-4bb2a4b8](https://www.linke
     ![](https://github.com/87kangsw/resume/blob/master/images/beauty.png)
 
     - 사용 기술
-      - React Native v0.59
+      - React Native v0.57
       - Redux, redux-thunk
       - eslint
       - Styled-components
 
-- 크리에이터스 (2017. 07 ~ 2017. 12)
+* 크리에이터스 (2017. 07 ~ 2017. 12)
 
   - Tortoise (스토어 판매 종료)
 
@@ -58,7 +75,7 @@ LinkedIn: [https://www.linkedin.com/in/sungwook-kang-4bb2a4b8](https://www.linke
       - HealthKit & Pedometer framework를 통한 Step Count 처리
       - 미국 은행 연동 서비스 SynapsePay 연동
 
-- 스마투스 (2016. 06 ~ 2017. 04)
+* 스마투스 (2016. 06 ~ 2017. 04)
 
   - BeNative
 
@@ -75,7 +92,7 @@ LinkedIn: [https://www.linkedin.com/in/sungwook-kang-4bb2a4b8](https://www.linke
       - Facebook Audience Network 를 통한 앱 내 광고
       - In App Purchase 구현: Subscriptions (Auto renewal, Non-renewable)
 
-- 핀스팟 (2015. 12 ~ 2016. 06)
+* 핀스팟 (2015. 12 ~ 2016. 06)
 
   - 핀스팟
 
@@ -103,7 +120,7 @@ LinkedIn: [https://www.linkedin.com/in/sungwook-kang-4bb2a4b8](https://www.linke
       - Objective-C
       - UIWebView를 통한 모바일 웹 앱
 
-- 한시간컴 (2013. 06 ~ 2015. 11)
+* 한시간컴 (2013. 06 ~ 2015. 11)
 
   - 뭐먹지?
 
@@ -146,7 +163,22 @@ LinkedIn: [https://www.linkedin.com/in/sungwook-kang-4bb2a4b8](https://www.linke
 
 ## 개인 프로젝트
 
-- GitTime
+- [Linkl](https://apps.apple.com/kr/app/id1487640917)
+
+  - ‘마음에 드는 링크들을 카테고리별로 모아 둘 수 있는 나만의 공간’이라는 슬로건 하에
+    지인 개발자들과 팀을 꾸려 만든 어플리케이션
+    ![](https://github.com/87kangsw/resume/blob/master/images/linkl.png)
+
+  - 사용 기술
+    - Swift 5
+    - Architecture: ReactorKit
+    - Networking: Alamofire, Moya, Kingfisher
+    - Modeling: Codable
+    - Reactive: RxSwift, RxDataSources
+    - Code Conventions: SwiftLint
+    - UI: SnapKit
+
+- [GitTime](https://apps.apple.com/kr/app/id1469013856)
 
   - [WakaTime](https://wakatime.com) 서비스를 이용하면서 얻은 아이디어를 바탕으로
     GitHub Contributions와 Activity를 주요 컨셉으로 잡아 개발한 어플리케이션
