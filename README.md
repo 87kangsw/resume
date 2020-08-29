@@ -4,7 +4,7 @@ Email: 87kangsw@gmail.com
 
 GitHub: [https://github.com/87kangsw](https://github.com/87kangsw)
 
-Notion: [http://bit.ly/31Lsy5q](http://bit.ly/31Lsy5q)
+Homepage: [kanz.dev](https://kanz.dev)
 
 LinkedIn: [https://www.linkedin.com/in/sungwook-kang-4bb2a4b8](https://www.linkedin.com/in/sungwook-kang-4bb2a4b8/)
 
